@@ -2,7 +2,7 @@
 
 This repository contains the **Frontend source code** for the official Mahalau Spa website. The project serves as a digital storefront, providing information on services, a gallery, and an interface for online booking (which connects to an external API).
 
-## 🌟 About Mahalau Spa
+## 🌟 About Mahalu Spa
 
 Mahalau Spa is dedicated to providing a premium, holistic relaxation and body care experience. We combine traditional massage techniques with high-quality natural products to restore energy, reduce stress, and enhance overall well-being.
 
@@ -42,8 +42,8 @@ You only need:
 ### 2. Cloning the Repository
 
 ```bash
-git clone https://github.com/yourusername/mahalau-spa-frontend.git
-cd mahalau-spa-frontend
+git clone https://github.com/yourusername/mahalu-spa-frontend.git
+cd mahalu-spa-frontend
 ```
 
 ### 3. Running the Project Locally
